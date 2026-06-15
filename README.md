@@ -2,7 +2,7 @@
 
 # YTS-Plex-RSS
 
-**Scans YTS for movies missing from your Plex library and serves them as a live RSS feed for qBittorrent.**
+**Scans YTS for movies missing from your Plex library and serves them as a live RSS feed/.torrent batch for qBittorrent.**
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-web%20ui-lightgrey?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
